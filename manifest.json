@@ -1,0 +1,8 @@
+{
+  "name": "MessageLogger",
+  "description": "Registra mensagens apagadas (NoDelete) e o histórico de edições. Port da lógica do MessageLogger do Vencord para o Revenge.",
+  "authors": [{ "name": "Port para Revenge (baseado no MessageLogger do Vencord)" }],
+  "main": "index.js",
+  "hash": "1.0.0",
+  "vendetta": { "icon": "ic_message_edit" }
+}
